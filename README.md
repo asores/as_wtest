@@ -27,7 +27,7 @@ Abaixo deixo as bibliotecas principais que foi utilizada:
 
 Os gradles estão configurado para a última versão do Android Studio. 
 
-# Por questões de perfomance e memória, implementei o scollInfinte com RecycleView, o mesmo está a preencher de 100 a 100.
+# Por questões de perfomance e memória, implementei o Scroll-Infinite com RecycleView, o mesmo está a preencher de 100 a 100.
 
 *Se acharem necessário, deixei uma .apk de debug na pasta APK*
 
