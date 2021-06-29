@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AS-WTest</string>
+    <string name="hint_loading">Processando dados...</string>
+    <string name="messageShowFilter">Foram encontrados %1$s código postais para sua pesquisa!</string>
+</resources>

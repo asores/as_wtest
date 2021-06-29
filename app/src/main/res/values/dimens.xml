@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="big_padding">16dp</dimen>
+    <dimen name="text_size_label_one">28dp</dimen>
+    <dimen name="text_size_label_two">25dp</dimen>
+</resources>
